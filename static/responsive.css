@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1000px) {
+
+	#panel {
+		width: 78% !important;
+	}
+
+	#extra {
+		top: 25vh;
+		left: 70vw;
+	}
+
+	#arrow {
+		height: 45vh;
+	}
+
+	#controller {
+		top: 25vh;
+	}
+
+	#instructions {
+		position: absolute;
+		top: 23vh;
+		left: 14vw;
+		font-size: 14pt;
+		width: 100%;
+	}
+
+}

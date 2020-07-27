@@ -63,6 +63,14 @@ body, html {
 	margin-bottom: 2.6vh;
 }
 
+#instructions {
+	position: absolute;
+	top: 2vh;
+	left: 2vw;
+	font-size: 14pt;
+	width: 25%;
+}
+
 /* This media block disables hover in touch devices: */
 @media (hover: hover) {
 	.icon:hover{

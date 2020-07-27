@@ -4,10 +4,6 @@ var currentPhoto = "bolsonaro";		// First photo to be displayed
 /* Initialization function: */
  $(document).ready(function(){
 
-	 if(window.innerHeight > window.innerWidth){
-		 alert("Please rotate your screen to landscape mode and press OK.");
-	 }
-
 	 // Counts photos:
 	 numPhotos = $(".photo").length;
 
